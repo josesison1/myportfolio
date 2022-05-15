@@ -23,7 +23,7 @@ class Projects extends Component {
             <CardBody>
               <CardTitle>Jose's Pokemon</CardTitle>
               <CardSubtitle>
-                Technologies used: API | JavaScript | HTML | CSS
+                Technologies used: API | JavaScript | html | css
               </CardSubtitle>
             </CardBody>
             <CardBody>
@@ -43,7 +43,7 @@ class Projects extends Component {
             <img src={onclick} id="projectimg" />
             <CardBody>
               <CardTitle> onClick() </CardTitle>
-              <CardSubtitle>Technologies used: React | Ruby on Rails | Ruby | JavaScript | Reactstrap | SCSS | JEST | RSPEC | ENZYME
+              <CardSubtitle>Technologies used: React | Ruby on Rails | Ruby | JavaScript | Reactstrap | Scss | Jest | RSpec | Enzyme
               </CardSubtitle>
             </CardBody>
             <CardBody>
@@ -62,7 +62,7 @@ class Projects extends Component {
             <img src={project} id="projectimg" />
             <CardBody>
               <CardTitle>MJ Treasure Hunt</CardTitle>
-              <CardSubtitle>Technologies used: JavaScript | HTML | CSS
+              <CardSubtitle>Technologies used: JavaScript | html | css
               </CardSubtitle>
             </CardBody>
             <CardBody>
@@ -80,7 +80,7 @@ class Projects extends Component {
             <img src={smashball} id="projectimg" />
             <CardBody>
               <CardTitle>Smashball</CardTitle>
-              <CardSubtitle>Technologies used: REACT | RUBY ON RAILS | JAVASCRIPT | RUBY |HTML | CSS | ENZYME | JEST | RSPEC
+              <CardSubtitle>Technologies used: React | Ruby on Rails | JavaScript | Ruby | html | css | Enzyme | Jest | RSpec
               </CardSubtitle>
             </CardBody>
             <CardBody>
@@ -95,7 +95,7 @@ class Projects extends Component {
             <img src={aptapp} id="projectimg" />
             <CardBody>
               <CardTitle>Apartment App</CardTitle>
-              <CardSubtitle>Technologies used: React in Rails | Ruby | JavaScipt | HTML | CSS
+              <CardSubtitle>Technologies used: React in Rails | Ruby | JavaScipt | html | css
               </CardSubtitle>
             </CardBody>
             <CardBody>
@@ -107,14 +107,14 @@ class Projects extends Component {
             <img src={rentnow} id="projectimg" />
             <CardBody>
               <CardTitle>RentNow</CardTitle>
-              <CardSubtitle>Technologies used: C# | SQL | ASP.NET | HTML | CSS
+              <CardSubtitle>Technologies used: c# | sql | asp.net | html | css
               </CardSubtitle>
             </CardBody>
             <CardBody>
               <CardText>A project built using ASP.NET MVC to display basic CRUD functionality and with the use of a database to store data from the user. Show casing wireframes & prototypes created through figma, database relationships, user stories, use case diagram, and test cases.
                 <br /><br />*WORK IN PROGRESS*</CardText>
               <p className="moreinfo">For more info, click the following links below:</p>
-              <CardLink target="blank" href="https://github.com/josesison1/RentNowApp">Source Code</CardLink>
+              <CardLink target="blank" href="https://github.com/josesison1/RentNowApp"> Source Code</CardLink>
             </CardBody>
           </Card>
         </div >
