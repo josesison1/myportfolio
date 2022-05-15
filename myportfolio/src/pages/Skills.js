@@ -21,7 +21,7 @@ class Skills extends Component {
             <div className="skills1">
               <img src={js} width="150" height="130" />
               <img src={ruby} width="135" height="130" />
-              <img src={htmlcss} width="155" height="140" />
+              <img src={htmlcss} width="155" height="130" />
             </div>
             <div className="skills2">
               <img src={csharp} width="160" height="140" />

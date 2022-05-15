@@ -7,18 +7,12 @@
   height: 9vh;
 }
 
-a.nav-link {
+.navnavlink {
   color: black;
-  box-shadow: inset 0 0 0 0 white;
-  color: black;
-  /* padding: 0 .25rem; */
-  /* margin: 0 -.25rem; */
-  transition: color .7s ease-in-out, box-shadow .7s ease-in-out;
 }
 
-a.nav-link:hover {
+.navnavlink:hover {
   color: black;
-  box-shadow: inset 100px 0 0 0 white;
 }
 
 .navgithub:hover,
@@ -81,7 +75,7 @@ a.nav-link:hover {
 
 .sectionheaders {
   margin-top: 50px;
-  font-size: 60px;
+  font-size: 50px;
   font-family: Copperplate, Papyrus, fantasy;
   text-align: center;
 }
@@ -151,12 +145,8 @@ p.card-text {
 }
 
 a.card-link {
-  text-decoration: none;
   color: black;
   box-shadow: inset 0 0 0 0 white;
-  color: black;
-  /* padding: 0 .25rem; */
-  /* margin: 0 -.25rem; */
   transition: color .7s ease-in-out, box-shadow .7s ease-in-out;
 }
 
@@ -182,12 +172,10 @@ a.card-link:hover {
 .emaillogo,
 .linkedlogo,
 .githublogo {
-  padding: 20px;
-  color: black;
+  padding: 10px;
+  margin: 0 20px;
   box-shadow: inset 0 0 0 0 white;
   color: black;
-  /* padding: 0 .25rem; */
-  /* margin: 0 -.25rem; */
   transition: color .7s ease-in-out, box-shadow .7s ease-in-out;
 }
 
@@ -195,7 +183,7 @@ a.card-link:hover {
 .linkedlogo:hover,
 .githublogo:hover {
   color: black;
-  box-shadow: inset 150px 0 0 0 white;
+  box-shadow: inset 100px 0 100px 0 white;
 }
 
 .email,
@@ -208,7 +196,7 @@ a.card-link:hover {
 .footer {
   text-align: center;
   font-family: Copperplate, Papyrus, fantasy;
-  font-size: 18px;
+  font-size: 16px;
   padding: 25px;
   height: 9vh;
   background-color: #ECEFF1;
