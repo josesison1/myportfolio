@@ -31,12 +31,12 @@ class Header extends Component {
       <>
         <div>
           <Navbar light expand="md" fixed="top">
-            <img src={logo} width='60' />
+            <img src={logo} width='40' />
             <NavbarToggler onClick={this.toggle} />
             <Collapse isOpen={this.state.isOpen} navbar>
               <Nav className="ml-auto" navbar>
                 <NavItem>
-                  <NavLink href="#home" id='home' >Home</NavLink>
+                  <NavLink href="#home" >Home</NavLink>
                 </NavItem>
                 <NavItem>
                   <NavLink href="#about">About Me</NavLink>
@@ -52,16 +52,18 @@ class Header extends Component {
                 </NavItem>
                 <NavItem>
                   <NavLink
+                    className='navgithub'
                     href="https://github.com/josesison1/"
                     target="_blank">
-                    <img src={github} width='45' />
+                    <img src={github} width='35' />
                   </NavLink>
                 </NavItem>
                 <NavItem>
                   <NavLink
+                    className='navlinkedin'
                     href="https://www.linkedin.com/in/jose-sison/"
                     target="_blank">
-                    <img src={linkedin} width='45' />
+                    <img src={linkedin} width='35' />
                   </NavLink>
                 </NavItem>
               </Nav>

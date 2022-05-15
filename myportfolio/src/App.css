@@ -1,14 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800&display=swap');
 
-/* .body {
-  margin: 0;
-  padding: 0;
-} */
-
 .navbar {
-  font-size: 22px;
+  font-size: 18px;
   font-family: Copperplate, Papyrus, fantasy;
   background-color: #ECEFF1;
+  height: 9vh;
+}
+
+a.nav-link {
+  color: black;
+  box-shadow: inset 0 0 0 0 white;
+  color: black;
+  /* padding: 0 .25rem; */
+  /* margin: 0 -.25rem; */
+  transition: color .7s ease-in-out, box-shadow .7s ease-in-out;
+}
+
+a.nav-link:hover {
+  color: black;
+  box-shadow: inset 100px 0 0 0 white;
+}
+
+.navgithub:hover,
+.navlinkedin:hover {
+  animation: bounce 0.3s infinite alternate;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(-5px);
+  }
 }
 
 .landingimg {
@@ -21,7 +46,7 @@
 
 .welcomesign {
   font-family: 'Barlow Condensed', sans-serif;
-  font-size: 135px;
+  font-size: 100px;
   display: flex;
   margin-left: 60px;
   padding-top: 70px;
@@ -56,7 +81,7 @@
 
 .sectionheaders {
   margin-top: 50px;
-  font-size: 80px;
+  font-size: 60px;
   font-family: Copperplate, Papyrus, fantasy;
   text-align: center;
 }
@@ -69,17 +94,17 @@
 }
 
 .skillssection {
-  background-image: linear-gradient(to right, rgb(170, 196, 202), rgb(58, 168, 193));
+  background-image: linear-gradient(to right, rgb(224, 232, 234), rgb(140, 186, 200), rgb(35, 124, 151));
   height: 100vh;
 }
 
 .skills1,
 .skills2,
 .skills3 {
+  padding-top: 55px;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  padding: 50px;
 }
 
 .card1 {
@@ -94,17 +119,61 @@
   margin-bottom: 60px;
 }
 
-.projectimg {
-  height: 60%;
+div.card-title {
+  font-size: 22px;
+}
+
+div.card-subtitle {
+  font-size: 14px;
+}
+
+div.card-body {
+  font-family: Copperplate, Papyrus, fantasy;
+  background-color: rgb(224, 232, 234);
+  padding: 10px;
+}
+
+img#projectimg {
+  width: 100%;
+  height: 350px;
+}
+
+p.moreinfo {
+  font-size: 13px;
+  font-style: italic;
+}
+
+p.card-text {
+  border: 2px solid white;
+  border-radius: 20px;
+  font-size: 14px;
+  padding: 5px;
+}
+
+a.card-link {
+  text-decoration: none;
+  color: black;
+  box-shadow: inset 0 0 0 0 white;
+  color: black;
+  /* padding: 0 .25rem; */
+  /* margin: 0 -.25rem; */
+  transition: color .7s ease-in-out, box-shadow .7s ease-in-out;
+}
+
+a.card-link:hover {
+  text-decoration: none;
+  color: black;
+  text-decoration: underline;
+  box-shadow: inset 150px 0 0 0 white;
 }
 
 .contactsection {
-  background-image: linear-gradient(to right, rgb(170, 196, 202), rgb(58, 168, 193));
+  background-image: linear-gradient(to right, rgb(224, 232, 234), rgb(140, 186, 200), rgb(35, 124, 151));
   height: 30vh;
 }
 
 .contacticons {
-  padding: 65px;
+  padding: 30px;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -113,11 +182,34 @@
 .emaillogo,
 .linkedlogo,
 .githublogo {
-  margin-right: 20px;
+  padding: 20px;
   color: black;
-  text-decoration: none;
+  box-shadow: inset 0 0 0 0 white;
+  color: black;
+  /* padding: 0 .25rem; */
+  /* margin: 0 -.25rem; */
+  transition: color .7s ease-in-out, box-shadow .7s ease-in-out;
+}
+
+.emaillogo:hover,
+.linkedlogo:hover,
+.githublogo:hover {
+  color: black;
+  box-shadow: inset 150px 0 0 0 white;
 }
 
 .email,
 .linked,
-.git {}
+.git {
+  font-family: Copperplate, Papyrus, fantasy;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  font-family: Copperplate, Papyrus, fantasy;
+  font-size: 18px;
+  padding: 25px;
+  height: 9vh;
+  background-color: #ECEFF1;
+}

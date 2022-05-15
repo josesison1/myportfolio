@@ -19,19 +19,19 @@ class Skills extends Component {
           <div className="sectionheaders">Skills</div>
           <div className="skillssection">
             <div className="skills1">
-              <img src={js} width="200" height="170" />
-              <img src={ruby} width="165" height="160" />
-              <img src={htmlcss} width="185" height="180" />
+              <img src={js} width="150" height="130" />
+              <img src={ruby} width="135" height="130" />
+              <img src={htmlcss} width="155" height="140" />
             </div>
             <div className="skills2">
-              <img src={csharp} width="190" height="180" />
-              <img src={java} width="190" height="180" />
-              <img src={react} width="195" height="180" />
+              <img src={csharp} width="160" height="140" />
+              <img src={java} width="160" height="150" />
+              <img src={react} width="165" height="130" />
             </div>
             <div className="skills3">
-              <img src={rails} width="200" height="230" />
-              <img src={sqlserver} width="200" height="180" />
-              <img src={postgres} width="200" height="200" />
+              <img src={rails} width="180" height="180" />
+              <img src={sqlserver} width="180" height="150" />
+              <img src={postgres} width="180" height="160" />
             </div>
           </div>
         </div>

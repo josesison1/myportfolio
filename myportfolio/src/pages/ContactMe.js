@@ -14,18 +14,18 @@ class Projects extends Component {
           <div className="contacticons">
             <a className="emaillogo" target="_blank"
               href="mailto:jose.sison1@outlook.com">
-              <img src={email} width="80" height="80/" />
+              <img src={email} width="60" height="60/" />
               <p className="email">Email</p>
             </a>
             <a className="linkedlogo" target="_blank"
               href="https://www.linkedin.com/in/jose-sison/">
-              <img src={linked} width="80" height="80" />
+              <img src={linked} width="60" height="60" />
               <p className="linked">LinkedIn</p>
 
             </a>
             <a className="githublogo" target="_blank"
               href="https://github.com/josesison1">
-              <img src={github} width="80" height="80" />
+              <img src={github} width="60" height="60" />
               <p className="git">GitHub</p>
             </a>
           </div>
