@@ -4,7 +4,8 @@
   font-size: 18px;
   font-family: Copperplate, Papyrus, fantasy;
   background-color: #ECEFF1;
-  height: 9vh;
+  padding: 0 auto;
+  margin: auto;
 }
 
 .navnavlink {
@@ -264,7 +265,8 @@ a.card-link:hover {
   text-align: center;
   font-family: Copperplate, Papyrus, fantasy;
   font-size: 16px;
+  display: flex;
+  justify-content: center;
   padding: 25px;
-  height: 9vh;
   background-color: #ECEFF1;
 }
