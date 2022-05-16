@@ -96,7 +96,7 @@
 }
 
 #myimage {
-  border: 5px solid rgb(140, 186, 200);
+  border: 7px solid rgb(140, 186, 200);
   border-radius: 50%;
 }
 
@@ -141,6 +141,7 @@ p.sandiego {
 
 a.resume {
   color: black;
+  margin: 0 auto;
   box-shadow: inset 0 0 0 0 rgb(140, 186, 200);
   transition: color .7s ease-in-out, box-shadow .7s ease-in-out;
 }
@@ -189,7 +190,7 @@ div.card-subtitle {
 
 div.card-body {
   font-family: Copperplate, Papyrus, fantasy;
-  background-color: rgb(224, 232, 234);
+  background-color: rgb(140, 186, 200);
   padding: 10px;
 }
 
