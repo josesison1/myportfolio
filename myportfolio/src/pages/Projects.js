@@ -100,7 +100,8 @@ class Projects extends Component {
             </CardBody>
             <CardBody>
               <CardText>A React in Rails project display basic CRUD functionality and with the use of a database to store data from the user. Show chasing wireframes & prototypes created through figma, database relationships, user stories, use case diagram, and test cases.
-                <br /><br />*WORK IN PROGRESS*</CardText>
+                <br /><br /></CardText>
+              <p>*WORK IN PROGRESS*</p>
             </CardBody>
           </Card>
           <Card>
