@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import aboutmepic from '../img/mypic.jpeg'
 import laptop from '../img/computer3.png'
 import download from '../img/download.png'
-import resume from '../assets/Jose Sison Full Stack Developer Resume.pdf'
+import resume from '../assets/Jose Sison Full Stack Developer.pdf'
 import location from '../img/location.png'
 
 
