@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.c5a45291.css",
-    "main.js": "/myportfolio/static/js/main.ac529d6a.js",
+    "main.js": "/myportfolio/static/js/main.d1479648.js",
     "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
     "static/media/onclick.png": "/myportfolio/static/media/onclick.0af926d84fb84df0a7e0.png",
     "static/media/project.png": "/myportfolio/static/media/project.9c1cc8645ed50af9f4be.png",
@@ -17,7 +17,7 @@
     "static/media/ruby2.png": "/myportfolio/static/media/ruby2.0b422d1937bfcd04dc8e.png",
     "static/media/email.png": "/myportfolio/static/media/email.29f2b1476cb8118a0c0f.png",
     "static/media/download.png": "/myportfolio/static/media/download.177f59cbc9283ccbe660.png",
-    "static/media/Jose Sison Full Stack Developer.pdf": "/myportfolio/static/media/Jose Sison Full Stack Developer.6be708c53e2925a7f393.pdf",
+    "static/media/Jose Sison Full Stack Developer.pdf": "/myportfolio/static/media/Jose Sison Full Stack Developer.befb0ed87d7b81a7bb41.pdf",
     "static/media/pngegg.png": "/myportfolio/static/media/pngegg.db75c4cfc3de042850af.png",
     "static/media/mypic.jpeg": "/myportfolio/static/media/mypic.f5a2e5d78b4865206766.jpeg",
     "static/media/java.png": "/myportfolio/static/media/java.6c1a3b5f7e2d535bff5b.png",
@@ -26,15 +26,14 @@
     "static/media/rails.png": "/myportfolio/static/media/rails.a272444fee188c3c05c4.png",
     "static/media/sqlserver.svg": "/myportfolio/static/media/sqlserver.d8960239462c3866a8b8fa70cab83b00.svg",
     "static/media/computer3.png": "/myportfolio/static/media/computer3.01a70e62de23040cf1ca.png",
-    "static/media/location.png": "/myportfolio/static/media/location.9405fc8d7d31765f05bb.png",
     "index.html": "/myportfolio/index.html",
     "static/media/javascript2.svg": "/myportfolio/static/media/javascript2.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.c5a45291.css.map": "/myportfolio/static/css/main.c5a45291.css.map",
-    "main.ac529d6a.js.map": "/myportfolio/static/js/main.ac529d6a.js.map",
+    "main.d1479648.js.map": "/myportfolio/static/js/main.d1479648.js.map",
     "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5a45291.css",
-    "static/js/main.ac529d6a.js"
+    "static/js/main.d1479648.js"
   ]
 }
