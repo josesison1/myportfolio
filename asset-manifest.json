@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.c5a45291.css",
+    "main.js": "/myportfolio/static/js/main.ac529d6a.js",
+    "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/onclick.png": "/myportfolio/static/media/onclick.0af926d84fb84df0a7e0.png",
+    "static/media/project.png": "/myportfolio/static/media/project.9c1cc8645ed50af9f4be.png",
+    "static/media/aptapp.png": "/myportfolio/static/media/aptapp.bfbdd079dd26dc3e6963.png",
+    "static/media/smashball.png": "/myportfolio/static/media/smashball.209412e61c058853277d.png",
+    "static/media/rentnow.png": "/myportfolio/static/media/rentnow.fd6a8782dad85cee0444.png",
+    "static/media/pokemon.png": "/myportfolio/static/media/pokemon.fe6029078ed442e088dc.png",
+    "static/media/github.png": "/myportfolio/static/media/github.c0278221fde29a79a6e9.png",
+    "static/media/csharp.png": "/myportfolio/static/media/csharp.e095694584811ade286e.png",
+    "static/media/background.png": "/myportfolio/static/media/background.aece577c4e4569ee2990.png",
+    "static/media/linked.png": "/myportfolio/static/media/linked.b02cb71bcd74733fba7a.png",
+    "static/media/react.png": "/myportfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/ruby2.png": "/myportfolio/static/media/ruby2.0b422d1937bfcd04dc8e.png",
+    "static/media/email.png": "/myportfolio/static/media/email.29f2b1476cb8118a0c0f.png",
+    "static/media/download.png": "/myportfolio/static/media/download.177f59cbc9283ccbe660.png",
+    "static/media/Jose Sison Full Stack Developer.pdf": "/myportfolio/static/media/Jose Sison Full Stack Developer.6be708c53e2925a7f393.pdf",
+    "static/media/pngegg.png": "/myportfolio/static/media/pngegg.db75c4cfc3de042850af.png",
+    "static/media/mypic.jpeg": "/myportfolio/static/media/mypic.f5a2e5d78b4865206766.jpeg",
+    "static/media/java.png": "/myportfolio/static/media/java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/jslogo.png": "/myportfolio/static/media/jslogo.578578b0c75435ea295c.png",
+    "static/media/htmlcss.png": "/myportfolio/static/media/htmlcss.d24dbc00ac560e1f220a.png",
+    "static/media/rails.png": "/myportfolio/static/media/rails.a272444fee188c3c05c4.png",
+    "static/media/sqlserver.svg": "/myportfolio/static/media/sqlserver.d8960239462c3866a8b8fa70cab83b00.svg",
+    "static/media/computer3.png": "/myportfolio/static/media/computer3.01a70e62de23040cf1ca.png",
+    "static/media/location.png": "/myportfolio/static/media/location.9405fc8d7d31765f05bb.png",
+    "index.html": "/myportfolio/index.html",
+    "static/media/javascript2.svg": "/myportfolio/static/media/javascript2.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.c5a45291.css.map": "/myportfolio/static/css/main.c5a45291.css.map",
+    "main.ac529d6a.js.map": "/myportfolio/static/js/main.ac529d6a.js.map",
+    "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a45291.css",
+    "static/js/main.ac529d6a.js"
+  ]
+}
