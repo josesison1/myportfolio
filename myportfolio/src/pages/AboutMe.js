@@ -15,7 +15,7 @@ class AboutMe extends Component {
         <div className="aboutme">
           <div className="aboutme1"><img id="myimage" src={aboutmepic} width="350" />
             <p className="myname">Jose Sison</p>
-            <p className="sandiego"> <img id='locationicon' src={location} />San Diego, CA.</p>
+            <p className="sandiego">San Diego, CA.</p>
           </div>
           <div className="aboutmyself">
             <div className='hello'>
