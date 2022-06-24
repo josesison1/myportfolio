@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.c5a45291.css",
-    "main.js": "/myportfolio/static/js/main.d9c74b33.js",
+    "main.js": "/myportfolio/static/js/main.e06fb75d.js",
     "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
     "static/media/onclick.png": "/myportfolio/static/media/onclick.0af926d84fb84df0a7e0.png",
     "static/media/project.png": "/myportfolio/static/media/project.9c1cc8645ed50af9f4be.png",
@@ -18,7 +18,7 @@
     "static/media/email.png": "/myportfolio/static/media/email.29f2b1476cb8118a0c0f.png",
     "static/media/download.png": "/myportfolio/static/media/download.177f59cbc9283ccbe660.png",
     "static/media/pngegg.png": "/myportfolio/static/media/pngegg.db75c4cfc3de042850af.png",
-    "static/media/Jose Sison Full Stack Developer.pdf": "/myportfolio/static/media/Jose Sison Full Stack Developer.e0e657d4756937d3226f.pdf",
+    "static/media/Jose Sison Software Developer Resume.pdf": "/myportfolio/static/media/Jose Sison Software Developer Resume.ee6ab5094bebd40b29a8.pdf",
     "static/media/mypic.jpeg": "/myportfolio/static/media/mypic.f5a2e5d78b4865206766.jpeg",
     "static/media/java.png": "/myportfolio/static/media/java.6c1a3b5f7e2d535bff5b.png",
     "static/media/jslogo.png": "/myportfolio/static/media/jslogo.578578b0c75435ea295c.png",
@@ -29,11 +29,11 @@
     "index.html": "/myportfolio/index.html",
     "static/media/javascript2.svg": "/myportfolio/static/media/javascript2.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.c5a45291.css.map": "/myportfolio/static/css/main.c5a45291.css.map",
-    "main.d9c74b33.js.map": "/myportfolio/static/js/main.d9c74b33.js.map",
+    "main.e06fb75d.js.map": "/myportfolio/static/js/main.e06fb75d.js.map",
     "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5a45291.css",
-    "static/js/main.d9c74b33.js"
+    "static/js/main.e06fb75d.js"
   ]
 }
